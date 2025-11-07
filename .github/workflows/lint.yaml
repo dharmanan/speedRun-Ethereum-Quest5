@@ -41,3 +41,4 @@ jobs:
 
       - name: Check typings on nextjs
         run: yarn next:check-types
+        run: yarn next:check-types
